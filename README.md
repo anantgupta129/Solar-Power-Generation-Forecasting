@@ -8,6 +8,7 @@ We want to predict the power output for a particular array of solar power genera
 
 Solar power forecasting is  very usefull in smooth operation and control of solar power plant. Generation of energy by a solar panel or cell depends upon the doping level  and design of solar PV array but  the main factors are the amount of solar radiation falling on the panel, environmental factors like atmospheric temperature and humidity  and  dust present on the panels .  These factors are naturally variable  and hence the output of solar cell  directly depend on it. Also, the solar irradiance as well as all the above-mentioned factors are variable throughout the day. Hourly average or average at a particular interval of time of these parameters received is measured for better prediction of output of a PV module and thus a solar power plant. The lower  the  sampling rate better will be the predication.
 
+**About DATA**
 * distance-to-solar-noon, in radians.
 * temperature, daily average temperature, in degrees Celsius.
 * wind-direction, daily average wind direction, in degrees (0-360).
