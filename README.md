@@ -33,15 +33,15 @@ Dependencies
 Model Architecture
 --------
 <p float="left">
-  <img src="results/Network%20Architecture.png" alt="drawing" width="550"/>
+  <img src="results/Network%20Architecture.png" alt="drawing" width="520"/>
   <img src="results/spfnet_model.png" alt="drawing" width="330"/>
 </p>
 
 Results
 -------
 <p float="left">
-  <img src="results/train%20pred%20vs%20real%20data.png" alt="drawing" width="450"/>
-  <img src="results/test%20pred%20vs%20real%20data.png" alt="drawing" width="450"/>
+  <img src="results/train%20pred%20vs%20real%20data.png" alt="drawing" width="420"/>
+  <img src="results/test%20pred%20vs%20real%20data.png" alt="drawing" width="420"/>
 </p>
 
 - lasso regressor feature importance
